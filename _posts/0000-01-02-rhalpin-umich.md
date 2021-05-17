@@ -2,5 +2,7 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Hello World!
+What did Java say to C?
+You've got no class
+
 Use the left arrow to go back!
